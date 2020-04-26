@@ -1,7 +1,7 @@
 {
   "name": "@shimataro/node-simplefind",
   "description": "simple 'find' implementation and some more useful options",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "shimataro",
   "license": "MIT",
   "repository": {
@@ -20,7 +20,7 @@
     "exec"
   ],
   "bin": {
-    "node-simplefind": "./bin/node-simplefind"
+    "node-simplefind": "./cli.js"
   },
   "engines": {
     "node": ">=4.0.0",
