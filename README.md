@@ -11,7 +11,7 @@ simple 'find' implementation and some more useful options
 ## Install
 
 ```bash
-npm i -D node-simplefind
+npm i @shimataro/node-simplefind
 ```
 
 ## Examples
