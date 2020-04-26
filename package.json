@@ -19,9 +19,6 @@
     "find",
     "exec"
   ],
-  "bin": {
-    "node-simplefind": "./cli.js"
-  },
   "engines": {
     "node": ">=4.0.0",
     "npm": ">=3.8.0"
